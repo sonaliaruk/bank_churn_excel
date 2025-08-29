@@ -2,6 +2,7 @@
 
 📌 **Project Summary**
 
+
 This project focuses on analyzing customer churn in a banking environment to identify key factors driving customer attrition
 * Focused on patterns in demographics, product usage, credit scores, and financial behavior.
 * Aimed to answer:
@@ -14,6 +15,7 @@ This project focuses on analyzing customer churn in a banking environment to ide
 
 
 🔎 **Key Insights**
+
 
 * **Age & Gende**r: Churn is highest among **43–67 yrs (53–59%)**. Across all countries, females churn more (~56%) than males.
 * **Geography**: Germany leads churn **(32.4%)**, suggesting market-specific issues.
