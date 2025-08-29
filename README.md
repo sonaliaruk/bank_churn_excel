@@ -1,8 +1,8 @@
 # bank_churn_excel
 
 📌 Project Summary
+
 This project focuses on analyzing customer churn in a banking environment to identify key factors driving customer attrition
-* By Analyzed customer churn data for a bank to identify key drivers behind customer attrition.
 * Focused on patterns in demographics, product usage, credit scores, and financial behavior.
 * Aimed to answer:
   * Who is most likely to churn?
