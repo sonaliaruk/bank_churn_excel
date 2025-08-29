@@ -50,4 +50,4 @@ The churn problem is not tenure- or income-driven, but demographic (age, gender,
  ## Bnak Churn Analysis Dashboard Screenshot
  Here is a preview of the Power BI dashboard:
 
-![Power Bi Dashboard](https://github.com/sonaliaruk/myntra_product_Analysis_Powerbi/blob/main/Dashboard_Screenshot.png)
+![Power Bi Dashboard]([https://github.com/sonaliaruk/bank_churn_excel/blob/main/Screenshot%202025-08-29%20203645.png])
