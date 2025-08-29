@@ -1,0 +1,18 @@
+📊 Excel Project – Questions
+
+1. Which age group has the highest churn rate?
+2. Does churn vary by geography (France, Spain, Germany)?
+3. Compare churn between male vs female customers.
+4. What percentage of churned customers had a credit card?
+5. Do long-tenure customers churn less, or is loyalty not a factor?
+6. Does having multiple products reduce churn compared to single-product customers?
+7. Are high-income customers more likely or less likely to churn?
+8. Is there a credit score threshold below which churn increases sharply?
+9. What is the churn rate among different customer clusters such as young & wealthy, senior & loyal, and high-risk groups?
+10. How does churn differ for customers with low credit score and high balance compared to those with high credit score and low balance?
+11. How much potential income is lost from churned customers based on their EstimatedSalary?
+12. How does churn differ between male and female customers across Geography?
+
+
+
+
